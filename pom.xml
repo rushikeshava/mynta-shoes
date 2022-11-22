@@ -6,7 +6,7 @@
 	<artifactId>shoes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>${pkg.title}</name>
 	<description>${pkg.description}</description>
 
